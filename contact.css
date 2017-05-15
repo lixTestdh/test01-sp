@@ -1,0 +1,122 @@
+
+
+strong{
+	font-weight: bold;
+}
+
+.contents > h3.modTitle03{
+	margin-top:1em;
+}
+
+div.modBlock01{
+	margin:0px 10px 20px;
+}
+
+p.contact-btn{
+	margin-left:1em;
+    display: inline-block;
+}
+
+p.contact-btn-n a{
+	width:100px;
+	padding: 11px 24px 9px 24px;
+    line-height: 1.0;
+	display: block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 91.6%;
+    background-color: #ef7b00;
+    color:#fff;
+	border-radius: 5px;
+}
+
+p.contact-btn a{
+	padding: 11px 24px 9px 24px;
+    line-height: 1.0;
+	display: block;
+    text-align: center;
+    background-color: #ef7b00;
+    font-size: 91.6%;
+    text-decoration: none;
+    color:#fff;
+	border-radius: 5px;
+}
+
+p.contact-btn-b{
+	margin-left:1em;
+    display: inline-block;
+}
+
+p.contact-btn-b a{
+	padding: 11px 24px 9px 24px;
+    line-height: 1.0;
+	display: block;
+    text-align: center;
+    background-color: #ef7b00;
+    font-size: 91.6%;
+    text-decoration: none;
+    color:#fff;
+   	border-radius: 5px;
+
+}
+
+p span.fax{
+	padding-left:1em;
+}
+
+ul.contact-TEL-ul{
+padding-left:1em;
+}
+
+ul.contact-TEL-ul li{
+margin-bottom:10px;
+}
+
+ul.contact-TEL-ul li a{
+	margin-left:1em;
+}
+
+ul.contact-TEL-ul li p.contact-btn{
+padding:0px 0px 0px 52px;
+background: url(/sp/inquiry/consumer/img/icon_free.png) no-repeat 0 0px;
+}
+
+
+ul.contact-TEL-ul li p.contact-btn-b{
+padding:0px 0px 0px 52px;
+background: url(/support/purpose/pic/icon_navid.png) no-repeat 0 0px;
+}
+
+
+.tel{
+    font-size: 2rem;s
+    font-weight: bold;
+}
+
+p.ml1em{
+	margin-left:1em;
+}
+
+div.conatct-openness{
+	margin:1em 0px;
+}
+
+ul.contact-subLinks{
+    border-top: 1px solid #c2c1c1;
+    margin:1em 0px;
+    padding-top:1em;
+}
+
+p.conact-fax-p{
+	margin-left:12px;
+}
+
+
+
+
+
+
+
+
+
+
